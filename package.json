@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "all-contributors-cli": "^4.11.1",
-    "cross-spawn": "^6.0.5",
+    "cross-spawn": "^7.0.3",
     "husky": "^0.14.3",
     "inquirer": "^5.2.0",
     "is-ci": "^1.1.0",
